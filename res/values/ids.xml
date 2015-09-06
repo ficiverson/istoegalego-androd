@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="layoutsup">false</item>
+    <item type="id" name="titulocap">false</item>
+    <item type="id" name="subtitulocap">false</item>
+    <item type="id" name="layoutmedio">false</item>
+    <item type="id" name="textitem2r">false</item>
+    <item type="id" name="ahora">false</item>
+    <item type="id" name="gridview2">false</item>
+    <item type="id" name="textitem">false</item>
+    <item type="id" name="play">false</item>
+    <item type="id" name="textitem2">false</item>
+    <item type="id" name="status_icon">false</item>
+    <item type="id" name="status_text">false</item>
+    <item type="id" name="status_progress">false</item>
+    <item type="id" name="layfondo">false</item>
+    <item type="id" name="titulo">false</item>
+    <item type="id" name="subtitulo">false</item>
+    <item type="id" name="capitulo">false</item>
+    <item type="id" name="gridview">false</item>
+    <item type="id" name="extras">false</item>
+    <item type="id" name="splashfondo">false</item>
+    <item type="id" name="splashfondo1">false</item>
+    <item type="id" name="splashtitulo">false</item>
+    <item type="id" name="splashsubtitulo">false</item>
+    <item type="id" name="splashfondo2">false</item>
+    <item type="id" name="splashexp">false</item>
+    <item type="id" name="splashdescarga">false</item>
+</resources>

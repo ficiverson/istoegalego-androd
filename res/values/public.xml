@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="fondoief" id="0x7f020000" />
+    <public type="drawable" name="fondoppal" id="0x7f020001" />
+    <public type="drawable" name="fondoredcuad" id="0x7f020002" />
+    <public type="drawable" name="fondoredondo" id="0x7f020003" />
+    <public type="drawable" name="ic_launcher" id="0x7f020004" />
+    <public type="drawable" name="play" id="0x7f020005" />
+    <public type="drawable" name="progress_horizontal" id="0x7f020006" />
+    <public type="drawable" name="stop" id="0x7f020007" />
+    <public type="layout" name="capitulo" id="0x7f030000" />
+    <public type="layout" name="capitulos" id="0x7f030001" />
+    <public type="layout" name="capitulos2" id="0x7f030002" />
+    <public type="layout" name="download_progress" id="0x7f030003" />
+    <public type="layout" name="main" id="0x7f030004" />
+    <public type="layout" name="splash" id="0x7f030005" />
+    <public type="anim" name="fadein" id="0x7f040000" />
+    <public type="anim" name="fadeout" id="0x7f040001" />
+    <public type="raw" name="lecciones" id="0x7f050000" />
+    <public type="string" name="app_name" id="0x7f060000" />
+    <public type="id" name="layoutsup" id="0x7f070000" />
+    <public type="id" name="titulocap" id="0x7f070001" />
+    <public type="id" name="subtitulocap" id="0x7f070002" />
+    <public type="id" name="layoutmedio" id="0x7f070003" />
+    <public type="id" name="textitem2r" id="0x7f070004" />
+    <public type="id" name="ahora" id="0x7f070005" />
+    <public type="id" name="gridview2" id="0x7f070006" />
+    <public type="id" name="textitem" id="0x7f070007" />
+    <public type="id" name="play" id="0x7f070008" />
+    <public type="id" name="textitem2" id="0x7f070009" />
+    <public type="id" name="status_icon" id="0x7f07000a" />
+    <public type="id" name="status_text" id="0x7f07000b" />
+    <public type="id" name="status_progress" id="0x7f07000c" />
+    <public type="id" name="layfondo" id="0x7f07000d" />
+    <public type="id" name="titulo" id="0x7f07000e" />
+    <public type="id" name="subtitulo" id="0x7f07000f" />
+    <public type="id" name="capitulo" id="0x7f070010" />
+    <public type="id" name="gridview" id="0x7f070011" />
+    <public type="id" name="extras" id="0x7f070012" />
+    <public type="id" name="splashfondo" id="0x7f070013" />
+    <public type="id" name="splashfondo1" id="0x7f070014" />
+    <public type="id" name="splashtitulo" id="0x7f070015" />
+    <public type="id" name="splashsubtitulo" id="0x7f070016" />
+    <public type="id" name="splashfondo2" id="0x7f070017" />
+    <public type="id" name="splashexp" id="0x7f070018" />
+    <public type="id" name="splashdescarga" id="0x7f070019" />
+</resources>

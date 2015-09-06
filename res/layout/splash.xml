@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/fondoief"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@id/splashfondo"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone" >
+
+        <RelativeLayout
+            android:id="@id/splashfondo1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/fondoppal" >
+
+            <TextView
+                android:id="@id/splashtitulo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:text="Isto é Galego"
+                android:textColor="#ffffffff"
+                android:textSize="26.25sp" />
+
+            <TextView
+                android:id="@id/splashsubtitulo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignRight="@id/splashtitulo"
+                android:layout_below="@id/splashtitulo"
+                android:text="POR CUACFM"
+                android:textColor="#ffffffff"
+                android:textSize="7.5sp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@id/splashfondo2"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/splashfondo1"
+            android:layout_marginTop="11.25dip"
+            android:background="@drawable/fondoredcuad" >
+
+            <TextView
+                android:id="@id/splashexp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:text="Para descargar os 200 Mbs dos audios é mellor facelo a través dunha red WIFI en vez de polo 3G. Durante a descarga podes cerrar esta ventana e entrar na aplicación a través da barra de notificación de Android cando remate a mesma. Graciñas por descargar Isto é Galego"
+                android:textColor="#ffffffff"
+                android:textSize="13.5sp" />
+        </RelativeLayout>
+
+        <Button
+            android:id="@id/splashdescarga"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/splashfondo2"
+            android:layout_centerInParent="true"
+            android:layout_marginTop="11.25dip"
+            android:background="@drawable/fondoredondo"
+            android:text="Descargar"
+            android:textColor="#ffffffff"
+            android:textSize="15.0sp" />
+    </RelativeLayout>
+
+</LinearLayout>

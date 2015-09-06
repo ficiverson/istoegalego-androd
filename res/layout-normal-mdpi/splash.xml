@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@drawable/fondoief" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/splashfondo" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <RelativeLayout android:id="@id/splashfondo1" android:background="@drawable/fondoppal" android:layout_width="fill_parent" android:layout_height="wrap_content"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <TextView android:textSize="26.25sp" android:textColor="#ffffffff" android:id="@id/splashtitulo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Isto é Galego" android:layout_centerHorizontal="true" />
+            <TextView android:textSize="7.5sp" android:textColor="#ffffffff" android:id="@id/splashsubtitulo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="POR CUACFM" android:layout_below="@id/splashtitulo" android:layout_alignRight="@id/splashtitulo" />
+        </RelativeLayout>
+        <RelativeLayout android:id="@id/splashfondo2" android:background="@drawable/fondoredcuad" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="11.25dip" android:layout_below="@id/splashfondo1"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <TextView android:textSize="13.5sp" android:textColor="#ffffffff" android:id="@id/splashexp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Para descargar os 200 Mbs dos audios é mellor facelo a través dunha red WIFI en vez de polo 3G. Durante a descarga podes cerrar esta ventana e entrar na aplicación a través da barra de notificación de Android cando remate a mesma. Graciñas por descargar Isto é Galego" android:layout_centerInParent="true" />
+        </RelativeLayout>
+        <Button android:textSize="15.0sp" android:textColor="#ffffffff" android:id="@id/splashdescarga" android:background="@drawable/fondoredondo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="11.25dip" android:text="Descargar" android:layout_below="@id/splashfondo2" android:layout_centerInParent="true" />
+    </RelativeLayout>
+</LinearLayout>

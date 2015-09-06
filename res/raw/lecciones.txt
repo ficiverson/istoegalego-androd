@@ -1,0 +1,54 @@
+{"nombre":[  
+    {"1":   ["Infiltrados: Niño, bello, polvo","Galegotrón","A outra historia de Galicia: A prehistoria","Isto como era?: Contracción pronominal","Adiviña"]}  
+,  
+    {"2":   ["Infiltrados: Almorzo","Galegotrón","A outra historia de Galicia: O primeiro romano que pisa Gallaecia","Isto como era?: Ir+Infinitivo","Adiviña","Rebeca McKenna: Castelao"]}  
+,
+    {"3":    ["Infiltrados: Soño, axuntamento, escaleira","A outra historia de Galicia: O latín aséntase en Gallaecia","Isto como era?: palabras rematadas en -axe","Adiviña"]} 
+,
+    {"4":    ["Infiltrados: Escoba, tutear, musgo","Galegotrón","A outra historia de Galicia: Continuando a historia do tal Pepitus","Isto como era?: A fin / O fin","Rebeca McKenna: Cunqueiro"]}
+,
+    {"5":    ["Infiltrados: Asolar, racha, fallo","A outra historia de Galicia: A morte de Pepitus","Isto como era?: San / Santo, Gran / Grande","Adiviña"]}     
+,
+    {"6":    ["Infiltrados: Sirena, fundir, destello","Galegotrón","A outra historia de Galicia: A festexar chegou a cervexa","Isto como era?: Palabras que se acentúan distinto en galego e castelán","Rebeca McKenna: Blanco Amor"]}  
+,  
+    {"7":    ["Infiltrados: Termos económicos","A outra historia de Galicia: Feudalismo / Alto medievo","Isto como era?: Tempos compostos","Adiviña"]} 
+,
+    {"8":    ["Infiltrados: Pala e pa","Galegotrón","A outra historia de Galicia: Baixo medievo","Isto como era?: Te / Che","Rebeca McKenna: Manuel Rivas"]} 
+,
+    {"9":    ["Infiltrados: Relevo, grado, posar","A outra historia de Galicia: As guerras irmandiñas","Isto como era?: Nós / Nosoutros","Adiviña"]} 
+,
+    {"10":   ["Infiltrados: Desenrolar, recorrer, abonar","Galegotrón","A outra historia de Galicia: Os séculos escuros","Isto como era?: Choiva","Adiviña","Rebeca McKenna: Rosalía de Castro"]}    
+, 
+    {"11":   ["Infiltrados: Callar, gallo, mimos","A outra historia de Galicia: O rexurdimento","Isto como era?: Como / Coma","Adiviña"]} 
+,
+    {"12":   ["Infiltrados: Rubia e roxa","Galegotrón","Isto como era?: Infinitivo conxugado","Adiviña","Rebeca McKenna: Curros Enríquez"]} 
+,
+	{"13":   ["Capítulo Extra"]}
+],
+"tiempo":[  
+    {"1":   [0,150,220,417,549]}  
+,  
+    {"2":   [0,119,167,319,400,630]}  
+,
+    {"3":   [0,202,370,459]} 
+,
+    {"4":   [0,202,274,537,629]} 
+,
+    {"5":   [0,193,509,590]}    
+,
+    {"6":   [0,190,249,414,623]}  
+,  
+    {"7":   [0,202,428,557]}  
+,
+    {"8":   [0,149,234,485,647]} 
+,
+    {"9":   [0,173,444,564]} 
+,
+    {"10":  [0,190,252,473,652]}     
+, 
+    {"11":  [0,191,384,506]} 
+, 
+    {"12":  [0,142,213,368,624]}
+,
+	{"13":  [0]}
+]}
